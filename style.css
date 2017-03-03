@@ -1,0 +1,19 @@
+body {
+  font-family: "Comic Sans MS", sans-serif;
+  background-color:blanchedalmond;
+}
+
+#convo{
+  color: darkslateblue;
+  font-family: cursive;
+}
+
+#ib{
+  width: 99%;
+  height: 20px;
+}
+
+#sb{
+  float: right;
+}
+
